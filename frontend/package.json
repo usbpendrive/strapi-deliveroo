@@ -1,0 +1,12 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Fernando <ferry.fernando@gmail.com> (https://github.com/usbpendrive)",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
